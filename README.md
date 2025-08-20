@@ -55,5 +55,5 @@ Always learning, experimenting, and looking for the next challenge to solve.
 
 **Contact:**  
 Email: [Mlscof15@hotmail.com](mailto:Mlscof15@hotmail.com)  
-GitHub: [github.com/MasonStation](https://github.com/MasonStation)  
-LinkedIn: [linkedin.com/in/...](https://www.linkedin.com/)  
+GitHub: [github.com/MasonStation](https://github.com/MasonStation)  (obviously)
+LinkedIn: [linkedin.com]([https://www.linkedin.com/](https://www.linkedin.com/in/mason-scofield/))  
